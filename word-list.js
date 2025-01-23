@@ -1,7 +1,7 @@
 const wordList = [
     {
-        word: "guitar",
-        hint: "A musical instrument with strings."
+        word: "photosynthesis",
+        hint: "A process of converting sunlight with the help of water and oxygen into energy"
     },
     {
         word: "oxygen",
@@ -20,8 +20,8 @@ const wordList = [
         hint: "The scientific study of celestial objects and phenomena."
     },
     {
-        word: "football",
-        hint: "A popular sport played with a spherical ball."
+        word: "claustrophobia",
+        hint: "The fear of being enclosed in tight spaces."
     },
     {
         word: "chocolate",
@@ -128,8 +128,8 @@ const wordList = [
         hint: "All existing matter, space, and time as a whole."
     },
     {
-        word: "piano",
-        hint: "A musical instrument played by pressing keys that cause hammers to strike strings."
+        word: "anthropology",
+        hint: "The study of human societies and cultures and their development."
     },
     {
         word: "vacation",
@@ -168,8 +168,8 @@ const wordList = [
         hint: "An optical instrument used to view distant objects in space."
     },
     {
-        word: "breeze",
-        hint: "A gentle wind."
+        word: "anatidaephobia",
+        hint: "The irrational fear that, at any given moment, a duck is watching you from somewhere."
     },
     {
         word: "oasis",
@@ -188,16 +188,8 @@ const wordList = [
         hint: "A celestial body that orbits a star and does not produce light of its own."
     },
     {
-        word: "river",
-        hint: "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream."
-    },
-    {
         word: "tropical",
         hint: "Relating to or situated in the region between the Tropic of Cancer and the Tropic of Capricorn."
-    },
-    {
-        word: "mysterious",
-        hint: "Difficult or impossible to understand, explain, or identify."
     },
     {
         word: "enigma",
